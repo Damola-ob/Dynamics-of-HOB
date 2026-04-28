@@ -8,3 +8,4 @@ This file contains the python codes (Jupiter notebooks) used to generate the fig
 3. Dormancy threshold.ipynb: This introduces microbial dormancy to the system of equations and explored the different values of sdorm to obtain an optimum. Figures 6 and 7 are produced from this notebook
 4. Dry+rewet.ipynb: This solves the system of equations under drying and rewetting conditions and produced Figures 3 and 4
 5. Fixed points.ipynb: This is used to plot the fixed points of the model and produced Figure 2.
+6. Vd validation.ipynb: This is used for the data-model validation and produced Figure 9.
